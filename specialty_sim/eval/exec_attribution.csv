@@ -1,0 +1,10 @@
+driver,event_id,owner,start,eq28_impact,pct_of_2024,evidence,what_moved,side_effects
+Refill reminder touch cascade launch,E06,Patient Engagement,2025-04-01,18027,11.2,Probable (no control group),lapse_rate,
+Northstar Health 90-day supply mandate,E07,Payer Relations,2025-07-01,4806,3.0,Confirmed (scoped DiD),eq28_per_fill,
+Intake staffing shortage,E05,Intake Ops,2025-08-01,-1633,-1.0,Probable (no control group),"conversion, tat_median",
+South territory rep vacancies,E04,Sales Ops,2025-06-01,-1573,-1.0,Confirmed (scoped DiD),referrals,
+Limited-distribution win: Velarix,E03,Trade Relations,2025-05-01,1472,0.9,Confirmed (scoped DiD),"new_entrant, referrals",referrals
+Ustekinumab biosimilar launch / Stelara interchange,E02,Trade Relations,2025-02-01,-1277,-0.8,Confirmed (scoped DiD),"lapse_rate, new_entrant, referrals",lapse_rate
+Skyrizi field marketing push,E08,Sales Ops,2025-04-01,1267,0.8,Confirmed (scoped DiD),"conversion, referrals",conversion
+Keystone Rx step-therapy PA policy on Dupixent,E01,Payer Relations,2025-03-01,-565,-0.4,Confirmed (scoped DiD),"conversion, pa_required_rate, tat_median",tat_median
+Underlying trend and unexplained,,Analytics,,3771,2.3,Residual,,

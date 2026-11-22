@@ -1,0 +1,13 @@
+,20261121 (dev),101 (dev),202 (dev),303 (holdout)
+volume_2024_eq28,161296,161228,159832,160663
+volume_2025_eq28,185591,184127,184225,182557
+change_eq28,24295,22899,24393,21894
+logged_events_detected,8/8,8/8,7/8,8/8
+decoy_falsely_attributed,False,False,False,False
+unlogged_event_surfaced,True,True,True,True
+breaks_2025_after_rollup,51,53,56,56
+breaks_2025_matched,20,22,18,16
+breaks_2025_unexplained,31,31,38,40
+false_positive_breaks_2024,11,8,2,11
+attribution_accuracy_simple_chain,-0.624,-0.883,-0.765,-1.097
+attribution_accuracy_stock_flow,0.826,0.763,0.696,0.735

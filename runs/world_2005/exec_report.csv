@@ -1,0 +1,11 @@
+rank,driver,events,tier,eq28,lo95,hi95,pct_of_2024
+1,ds mandate (Atlas Part D),E07,Confirmed,2069.3957116302327,1530.3321722324176,2608.4592510280477,1.4818269726673594
+1,intake delay (all),E06,Confirmed,-1998.6923316807165,-2390.9660509686346,-1606.4186123927984,-1.4311985815485793
+1,referral mult (Harbor Medicaid),E02,Confirmed,1081.890072104968,545.4753790969972,1618.304765112939,0.774706297735209
+4,referral mult (West),E03,Confirmed,324.07559422974435,131.65310571654533,516.4980827429433,0.2320599941393161
+4,push (Stelara),E04,Probable,203.94426369794223,39.91222423914394,367.9763031567405,0.14603785499793062
+-,biosimilar (Enbrel|Etanercept biosimilar),E05,Not distinguishable from zero,0.0,-441.4473236464438,214.57679806143528,0.0
+-,"copay shock (Dupixent, Keystone Rx)",E08,Not distinguishable from zero,0.0,-833.9479466645901,308.3640716415737,0.0
+-,intake delay (Midwest),E09,Not distinguishable from zero,0.0,0.0,0.0,0.0
+-,Unexplained: practice=Riverbend Rheumatology referrals -95% from 2025-09,U01,Unexplained (not distinguishable),0.0,-607.9755853742049,67.26091496634439,0.0
+-,Underlying trend and everything not modelled,,Residual,6891.672404303539,,,4.9349024925925145

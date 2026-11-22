@@ -1,0 +1,15 @@
+check,from_messages,from_tables,match
+Telecom transactions,450067,450067,True
+Rejected claims,45083,45083,True
+Reject 75,30241,30241,True
+Reject 70,1240,1240,True
+Reject MR,1314,1314,True
+Reject 76,1333,1333,True
+Reject 79,10955,10955,True
+Dispensed fills,399799,399799,True
+EQ28 volume,498746.286,498746.286,True
+Monthly EQ28 max abs diff,0.0,0.0,True
+Fills by payer identical,True,True,True
+NewRx messages = eRx referrals,26080,26080,True
+ePA requests,30241,30241,True
+ePA denials,4299,4299,True

@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+specialty_volume_sim_v2.zip
+specialty_sim/data/*.parquet
+specialty_sim/data/*.csv.gz
+specialty_sim/ncpdp/*.jsonl.gz
+runs/*/fact_referral.parquet
+runs/*/fact_fill.parquet
+runs/*/dim_prescriber.parquet

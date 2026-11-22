@@ -1,0 +1,11 @@
+{'volume_2024': 151088, 'volume_2025': 162433, 'change': 11345, 'change_pct': np.float64(7.5)}
+rank                                                                             driver events                            tier    eq28    lo95    hi95  pct_of_2024
+   1                                                       ds mandate (Harbor Medicaid)    E06                       Confirmed  2353.8  1704.7  3002.9          1.6
+   1 Unexplained: practice=Lakeside Dermatology Associates referrals -100% from 2025-07    U01 Unexplained driver: investigate -2065.9 -2301.9 -1829.9         -1.4
+   1                                                          referral mult (Northeast)    E02                       Confirmed  1759.5  1032.3  2486.7          1.2
+   1                                                                     push (Stelara)    E07                       Confirmed  1230.0   555.6  1904.4          0.8
+   5                                                     persistence (Northstar Health)    E03                       Confirmed   967.8   400.1  1535.4          0.6
+   5                                                                 intake delay (all)    E05                       Confirmed  -762.2  -921.2  -603.1         -0.5
+   7                                              pa policy (Stelara, Northstar Health)    E04                       Confirmed  -266.3  -370.4  -162.1         -0.2
+   -                                                            referral mult (Midwest)    E08   Not distinguishable from zero     0.0     0.0     0.0          0.0
+   -                                       Underlying trend and everything not modelled                               Residual  8128.1     NaN     NaN          5.4

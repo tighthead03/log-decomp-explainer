@@ -1,0 +1,10 @@
+cluster,metric,months,n_slices,strongest_slices,max_abs_effect,triage
+8,referrals,2025-10..2025-11,7,practice=Lakeside Dermatology Associates; drug=Velarix (mock LDD); region=Midwest; drug=Dupixent,5.028,no logged event: investigate
+5,lapse_rate,2025-07..2025-09,7,drug=Enbrel & payer=Northstar Health; practice=Practice 0126; drug=Cosentyx & payer=Northstar Health; drug=Adalimumab biosimilar & payer=Northstar Health,1.696,no logged event: investigate
+9,tat_median,2025-04..2025-04,1,drug=Adalimumab biosimilar,0.504,no logged event: investigate
+3,eq28_per_fill,2025-11..2025-11,2,drug=Adalimumab biosimilar & payer=Northstar Health; payer=Northstar Health,0.483,no logged event: investigate
+6,pa_required_rate,2025-02..2025-02,1,drug=Adalimumab biosimilar,0.316,no logged event: investigate
+2,eq28_per_fill,2025-07..2025-07,1,All,0.152,no logged event: investigate
+7,referrals,2025-06..2025-07,2,drug=Ustekinumab biosimilar; drug=Otezla,0.602,possibly local variation of E02
+1,conversion,2025-08..2025-09,3,drug=Enbrel; referral_source=Hub; drug=Adalimumab biosimilar,0.209,possibly local variation of E05
+4,lapse_rate,2025-03..2025-05,7,practice=Practice 0096; drug=Stelara & payer=Northstar Health; practice=Practice 0043; payer=Harbor Medicaid,0.714,possibly local variation of E06

@@ -1,0 +1,13 @@
+,value
+volume_2024_eq28,161296
+volume_2025_eq28,185591
+change_eq28,24295
+logged_events_detected,8/8
+decoy_falsely_attributed,False
+unlogged_event_surfaced,True
+breaks_2025_after_rollup,51
+breaks_2025_matched,20
+breaks_2025_unexplained,31
+false_positive_breaks_2024,11
+attribution_accuracy_simple_chain,-0.624
+attribution_accuracy_stock_flow,0.826

@@ -1,0 +1,11 @@
+event_id,event_name,in_register,true_mechanism,true_impact_eq28,detected,best_slice,metrics,outcome,est_simple_chain,est_stock_flow,abs_err_simple_chain,abs_err_stock_flow
+E01,Keystone Rx step-therapy PA policy on Dupixent,True,conversion,-739.0,True,drug=Dupixent & payer=Keystone Rx,"conversion, pa_required_rate, tat_median",Detected (exact),-1634.3,-564.7,895.3,174.3
+E02,Ustekinumab biosimilar launch / Stelara interchange,True,referrals / new entrant,-570.0,True,drug=Stelara,"lapse_rate, new_entrant, referrals",Detected (exact),-11895.0,-1276.7,11325.0,706.7
+E03,Limited-distribution win: Velarix,True,new entrant,1472.0,True,drug=Velarix (mock LDD),"new_entrant, referrals",Detected (exact),1472.0,1472.0,0.0,0.0
+E04,South territory rep vacancies,True,referrals,-1800.4,True,region=South,referrals,Detected (exact),-6873.4,-1573.3,5073.0,227.1
+E05,Intake staffing shortage,True,conversion,-1927.4,True,All,"conversion, tat_median",Detected (exact),-4310.1,-1632.7,2382.7,294.7
+E06,Refill reminder touch cascade launch,True,persistence / fill frequency,17002.8,True,All,lapse_rate,Detected (exact),39726.7,18027.3,22723.9,1024.5
+E07,Northstar Health 90-day supply mandate,True,units per fill + / fills per patient -,3620.0,True,payer=Northstar Health,eq28_per_fill,Detected (exact),4953.5,4805.6,1333.5,1185.6
+E08,Skyrizi field marketing push,True,referrals + / conversion -,852.0,True,drug=Skyrizi,"conversion, referrals",Detected (exact),3186.1,1266.7,2334.1,414.7
+E09,Fax OCR intake system go-live,True,none (decoy),0.0,False,,,Correctly not attributed,0.0,0.0,0.0,0.0
+E10,Lakeside Dermatology Associates moved to competitor,False,referrals,-1004.4,True,drug=Dupixent; drug=Skyrizi; drug=Velarix (mock LDD),referrals,Surfaced as UNEXPLAINED break,0.0,0.0,1004.4,1004.4

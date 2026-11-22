@@ -1,0 +1,9 @@
+event_id,type,in_register,true_start,ramp_days,scope,params,true_impact
+E01,prescriber_loss,False,2025-06-19,0,{'practice': ['Lakeside Dermatology Associates']},{'mult': 0.0},-2356.9999999979045
+E02,referral_mult,True,2025-02-19,68,{'region': ['Northeast']},{'mult': 1.2299000172269423},1923.285714282887
+E03,persistence,True,2025-08-04,0,{'payer': ['Northstar Health']},"{'haz_mult': 0.7890448828497554, 'gap': 3.0652345684902267}",863.2857142845169
+E04,pa_policy,True,2025-05-29,0,"{'drug': ['Stelara'], 'payer': ['Northstar Health']}","{'pa_new': 0.8797467768524061, 'appr_new': 0.530790765942202}",-254.0
+E05,intake_delay,True,2025-10-02,0,{},{'extra': 4.352746246303893},-707.8571428560535
+E06,ds_mandate,True,2025-06-06,0,{'payer': ['Harbor Medicaid']},{},2193.9285714271828
+E07,push,True,2025-02-10,0,{'drug': ['Stelara']},"{'mult': 1.2921845902735039, 'marginal_nc': 0.3247455438887445}",1395.9999999985157
+E08,decoy,True,2025-02-07,0,{'region': ['Midwest']},{},0.0

@@ -1,0 +1,9 @@
+event_id,expected_kpis,event_type_logged,start_date,end_date,scope_drug,scope_payer,scope_region,scope_source
+E02,referrals,referral_mult,2025-03-08,,,Harbor Medicaid,,
+E03,referrals,referral_mult,2025-09-15,,,,West,
+E04,referrals|conversion,push,2025-10-06,,Stelara,,,
+E05,referrals|new_entrant,biosimilar,2025-03-10,,Enbrel|Etanercept biosimilar,,,
+E06,tat|conversion,intake_delay,2025-06-10,2025-08-20,,,,
+E07,eq28_per_fill|fills_per_active,ds_mandate,2025-08-02,,,Atlas Part D,,
+E08,conversion|lapse_rate|net_oop,copay_shock,2025-02-28,,Dupixent,Keystone Rx,,
+E09,lapse_rate,intake_delay,2025-02-19,,,,Midwest,

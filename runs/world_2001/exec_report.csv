@@ -1,0 +1,9 @@
+rank,driver,events,tier,eq28,lo95,hi95,pct_of_2024
+1,persistence (all),E04,Confirmed,3509.8265599184942,2237.359482802338,4782.293637034651,2.277014907393061
+1,referral mult (South),E02,Confirmed,-2663.905507495666,-3227.925697890325,-2099.885317101007,-1.7282200270873123
+1,intake delay (all),E05,Confirmed,-2476.0122152417894,-3022.2409058815383,-1929.7835246020402,-1.6063234546620433
+4,referral mult (West),E06,Confirmed,859.7604519976196,513.7779960694165,1205.7429079258227,0.5577732496363118
+-,push (Stelara),E03,Not distinguishable from zero,0.0,-25.418744798118155,1059.6377551894502,0.0
+-,biosimilar (Enbrel|Etanercept biosimilar),E07,Not distinguishable from zero,0.0,-204.64895886407163,5.686007101426085,0.0
+-,intake delay (Midwest),E08,Not distinguishable from zero,0.0,0.0,0.0,0.0
+-,Underlying trend and everything not modelled,,Residual,8505.18785367853,,,5.517776791071446

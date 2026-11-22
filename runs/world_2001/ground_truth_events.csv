@@ -1,0 +1,9 @@
+event_id,type,in_register,true_start,ramp_days,scope,params,true_impact
+E01,referral_mult,False,2025-06-27,0,{'region': ['South']},{'mult': 0.7418376309082716},-1199.7857142841094
+E02,referral_mult,True,2025-07-08,0,{'region': ['South']},{'mult': 0.7314234157985172},-1168.642857141269
+E03,push,True,2025-04-28,0,{'drug': ['Stelara']},"{'mult': 1.2200023191943403, 'marginal_nc': 0.3589165439140189}",500.0
+E04,persistence,True,2025-09-03,0,{},"{'haz_mult': 0.846717095692404, 'gap': 2.2560775391107297}",3412.2142857107683
+E05,intake_delay,True,2025-02-27,0,{},{'extra': 4.591141577591447},-2447.4999999959546
+E06,referral_mult,True,2025-08-06,0,{'region': ['West']},{'mult': 1.2200147739778417},825.8571428562282
+E07,biosimilar,True,2025-09-30,0,"{'drug': ['Enbrel', 'Etanercept biosimilar']}","{'originator': 'Enbrel', 'switch': 0.6816935249950058, 'capture': 0.7861719903707056}",-42.0
+E08,decoy,True,2025-04-03,0,{'region': ['Midwest']},{},0.0

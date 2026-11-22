@@ -1,0 +1,10 @@
+event_id,expected_kpis,event_name,category,start_date,end_date,scope_drug,scope_payer,scope_region,scope_source,business_hypothesis,owner,logged_by
+E01,conversion|pa_required_rate,Keystone Rx step-therapy PA policy on Dupixent,Payer policy,2025-03-01,,Dupixent,Keystone Rx,,,"Fewer Dupixent starts at Keystone (more PA, lower approval)",Payer Relations,analyst
+E02,referrals|new_entrant,Ustekinumab biosimilar launch / Stelara interchange,Market,2025-02-01,,Stelara|Ustekinumab biosimilar,,,,Stelara volume moves to biosimilar; some leakage to competitors,Trade Relations,analyst
+E03,new_entrant,Limited-distribution win: Velarix,Access,2025-05-01,,Velarix (mock LDD),,,,New volume from LDD access,Trade Relations,analyst
+E04,referrals,South territory rep vacancies,Sales,2025-06-01,,,,South,,Fewer South referrals while territories are open,Sales Ops,analyst
+E05,tat_median|conversion,Intake staffing shortage,Operations,2025-08-01,2025-10-31,,,,,Longer intake TAT; risk of abandonment,Intake Ops,analyst
+E06,lapse_rate|fills_per_active,Refill reminder touch cascade launch,Process,2025-04-01,,,,,,Better refill adherence and persistence,Patient Engagement,analyst
+E07,eq28_per_fill|fills_per_active,Northstar Health 90-day supply mandate,Payer policy,2025-07-01,,,Northstar Health,,,"Fewer, larger fills for Northstar members",Payer Relations,analyst
+E08,referrals,Skyrizi field marketing push,Sales,2025-04-01,,Skyrizi,,,,More Skyrizi referrals,Sales Ops,analyst
+E09,conversion|tat_median,Fax OCR intake system go-live,Operations,2025-05-12,,,,,Fax,"Faster fax intake, expected conversion uplift",Intake Ops,analyst

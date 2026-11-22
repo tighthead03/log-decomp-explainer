@@ -1,0 +1,8 @@
+event_id,expected_kpis,event_type_logged,start_date,end_date,scope_drug,scope_payer,scope_region,scope_source
+E02,referrals,referral_mult,2025-02-15,,,,Northeast,
+E03,lapse_rate|fills_per_active,persistence,2025-08-04,,,Northstar Health,,
+E04,conversion|pa_required_rate,pa_policy,2025-05-24,,Stelara,Northstar Health,,
+E05,tat|conversion,intake_delay,2025-10-15,2025-12-16,,,,
+E06,eq28_per_fill|fills_per_active,ds_mandate,2025-06-05,,,Harbor Medicaid,,
+E07,referrals,push,2025-01-31,,Stelara,,,
+E08,lapse_rate,referral_mult,2025-02-05,,,,Midwest,

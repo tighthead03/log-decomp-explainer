@@ -1,0 +1,8 @@
+event_id,expected_kpis,event_type_logged,start_date,end_date,scope_drug,scope_payer,scope_region,scope_source
+E02,referrals,referral_mult,2025-06-29,,,,South,
+E03,referrals,push,2025-04-06,,Stelara,,,
+E04,lapse_rate|fills_per_active,persistence,2025-09-07,,,,,
+E05,tat|conversion,intake_delay,2025-02-14,2025-05-07,,,,
+E06,referrals,referral_mult,2025-08-14,,,,West,
+E07,referrals|new_entrant,biosimilar,2025-10-06,,Enbrel|Etanercept biosimilar,,,
+E08,lapse_rate,intake_delay,2025-04-01,,,,Midwest,

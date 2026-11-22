@@ -1,0 +1,32 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Sample world",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/run_demo.py",
+      "args": ["sample"],
+      "console": "integratedTerminal",
+      "python": "${env:USERPROFILE}/.venvs/log-decomp-explainer/Scripts/python.exe"
+    },
+    {
+      "name": "New simulated world (seed 2001)",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/run_demo.py",
+      "args": ["world", "--seed", "2001"],
+      "console": "integratedTerminal",
+      "python": "${env:USERPROFILE}/.venvs/log-decomp-explainer/Scripts/python.exe"
+    },
+    {
+      "name": "Batch of worlds (1061-1063)",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/run_demo.py",
+      "args": ["batch", "--start", "1061", "--end", "1064", "--procs", "2"],
+      "console": "integratedTerminal",
+      "python": "${env:USERPROFILE}/.venvs/log-decomp-explainer/Scripts/python.exe"
+    }
+  ]
+}

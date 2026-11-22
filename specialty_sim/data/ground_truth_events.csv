@@ -1,0 +1,11 @@
+event_id,event_name,in_register,start_date,end_date,scope_drug,scope_payer,scope_region,scope_source,true_mechanism,true_direction,true_impact_eq28_2025,true_impact_pct_of_2025,true_referrals,true_conversion,true_patient_base,true_fill_frequency,true_days_supply_mix,true_new_entrant,true_lost,true_sparse_cell
+E01,Keystone Rx step-therapy PA policy on Dupixent,True,2025-03-01,2025-12-31,Dupixent,Keystone Rx,,,conversion,-,-739.0,-0.4,0.0,-2309.9,1288.9,282.0,0.0,0.0,0.0,0.0
+E02,Ustekinumab biosimilar launch / Stelara interchange,True,2025-02-01,2025-12-31,Stelara|Ustekinumab biosimilar,,,,referrals / new entrant,"- Stelara, + biosimilar",-570.0,-0.31,-14531.8,557.1,8756.8,1443.9,0.0,3204.0,0.0,0.0
+E03,Limited-distribution win: Velarix,True,2025-05-01,2025-12-31,Velarix (mock LDD),,,,new entrant,+,1472.0,0.79,0.0,0.0,0.0,0.0,0.0,1472.0,0.0,0.0
+E04,South territory rep vacancies,True,2025-06-01,2025-12-31,,,South,,referrals,-,-1800.4,-0.97,-7398.9,485.3,3599.0,1581.8,-67.6,0.0,0.0,0.0
+E05,Intake staffing shortage,True,2025-08-01,2025-10-31,,,,,conversion,-,-1927.4,-1.04,0.0,-5387.7,2726.9,834.1,-100.8,0.0,0.0,0.0
+E06,Refill reminder touch cascade launch,True,2025-04-01,2025-12-31,,,,,persistence / fill frequency,+,17002.8,9.16,0.0,0.0,0.0,16180.8,822.0,0.0,0.0,0.0
+E07,Northstar Health 90-day supply mandate,True,2025-07-01,2025-12-31,,Northstar Health,,,units per fill + / fills per patient -,mixed,3620.0,1.95,0.0,0.0,0.0,-11307.3,14927.3,0.0,0.0,0.0
+E08,Skyrizi field marketing push,True,2025-04-01,2025-12-31,Skyrizi,,,,referrals + / conversion -,linked,852.0,0.46,4445.8,-1647.8,-1513.4,-432.6,0.0,0.0,0.0,0.0
+E09,Fax OCR intake system go-live,True,2025-05-12,2025-12-31,,,,Fax,none (decoy),0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+E10,Lakeside Dermatology Associates moved to competitor,False,2025-09-15,2025-12-31,,,Midwest,,referrals,-,-1004.4,-0.54,-6396.1,432.2,3035.3,1940.8,-16.6,0.0,0.0,0.0
